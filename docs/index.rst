@@ -2,6 +2,7 @@
 Databricks Course
 ##################
 
+
 This paragraph will have Databricks content 
 
 ##################
