@@ -14,5 +14,9 @@
   :width: 700px
   :height: 400px
   :alt: alternate text
+.. image:: 5.png
+  :width: 700px
+  :height: 400px
+  :alt: alternate text
 
  
