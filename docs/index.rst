@@ -5,6 +5,7 @@ Databricks Course
 
 This paragraph will have Databricks content 
 
+
 ##################
 Part 1
 ##################
@@ -14,6 +15,10 @@ Part 1
   :height: 800px
   :alt: alternate text
   
+##################
+Part 2
+##################
+
 .. image:: 2.png
   :width: 500px
   :height: 800px
