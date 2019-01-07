@@ -18,5 +18,13 @@
   :width: 700px
   :height: 400px
   :alt: alternate text
+.. image:: 6.png
+  :width: 700px
+  :height: 400px
+  :alt: alternate text
+.. image:: 7.png
+  :width: 700px
+  :height: 400px
+  :alt: alternate text
 
  
