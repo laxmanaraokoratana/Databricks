@@ -67,7 +67,7 @@ Launch the workspace
 ^^^^^^^^^^^^^^^^^^^^^^^
 1.In the Azure Databricks Service page, click Launch Workspace. You’ll see the Azure Databricks workspace home page:
 
-.. image:: launch-azure.PNG
+.. image:: launch-azure.png
   :width: 700px
   :height: 500px
   :alt: alternate text
