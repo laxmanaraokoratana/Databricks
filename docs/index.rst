@@ -35,7 +35,7 @@ Day-1
 1. Databricks Login:
 ^^^^^^^^^^^^^^^^^^^^^
 
-- Sign up for Azure free Trial
+Sign up for Azure free Trial
 """"""""""""""""""""""""""""
 1. Go to Create your Azure free account today.
 2. Click Start free.
@@ -48,7 +48,7 @@ Day-1
 9. Provide credit card details and click Next.
 10. Check the Agreement checkbox and click Sign up.
 
-- Create an Azure Databricks workspace
+Create an Azure Databricks workspace
 """"""""""""""""""""""""""""""""""""""
 1. Log in to the Azure portal.
 2. Select + Create a resource > Analytics > Azure Databricks.
@@ -63,7 +63,7 @@ Day-1
 4. Select Pin to dashboard and then click Create. The portal displays “Deployment in progress”. After a few minutes the Azure Databricks Service page displays.
 
 
-- Launch the workspace
+Launch the workspace
 ^^^^^^^^^^^^^^^^^^^^^^^
 1.In the Azure Databricks Service page, click Launch Workspace. You’ll see the Azure Databricks workspace home page:
 
@@ -72,7 +72,7 @@ Day-1
   :height: 200px
   :alt: alternate text
 
-- Introduction to Databricks UI
+Introduction to Databricks UI
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
