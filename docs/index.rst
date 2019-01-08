@@ -68,13 +68,25 @@ Launch the workspace
 1.In the Azure Databricks Service page, click Launch Workspace. You’ll see the Azure Databricks workspace home page:
 
 .. image:: launch-azure.png
-  :width: 500px
+  :width: 600px
   :height: 200px
   :alt: alternate text
 
 Introduction to Databricks UI
 """""""""""""""""""""""""""""""
+From the sidebar at the left and the Common Tasks list on the home page, you access fundamental Azure Databricks entities: Workspace, clusters, tables, notebooks, jobs, and libraries. The Workspace is the special root folder that stores your Azure Databricks assets, such as notebooks and libraries, and the data that you import.
 
+.. image:: launch-azure.png
+  :width: 600px
+  :height: 200px
+  :alt: alternate text
+
+To get help, click the question icon Question Icon at the top right-hand corner.
+
+.. image:: DBsearch.png
+  :width: 500px
+  :height: 200px
+  :alt: alternate text
 
 
 
