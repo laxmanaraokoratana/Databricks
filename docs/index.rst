@@ -81,7 +81,7 @@ From the sidebar at the left and the Common Tasks list on the home page, you acc
   :height: 200px
   :alt: alternate text
 
-To get help, click the question icon Question Icon at the top right-hand corner.
+To get help, click the question icon ? at the top right-hand corner.
 
 .. image:: DBsearch.png
   :width: 500px
