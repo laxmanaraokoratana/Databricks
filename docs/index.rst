@@ -29,7 +29,7 @@ User Guide
 Week-I
 ========
 
-Day-1                                                Duration: 2hrs
+* Day-1                                                Duration: 2hrs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 1. Databricks Login:
