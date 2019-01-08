@@ -29,9 +29,15 @@ User Guide
 
 Week-I
 ========
-
 Day-1
 ^^^^^^^^^^
+1. Databricks Login:
+^^^^^^^^^^^^^^^^^^^^^
+- Sign up for Azure free Trial
+- Create an Azure Databricks workspace
+- Launch the workspace
+- Introduction to Databricks UI
+
 
 
 
