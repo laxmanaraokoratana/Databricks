@@ -1,0 +1,18 @@
+dapi685fd0b9aae1bbe543b89afe88897a49
+
+
+dapi4117faf5e7f70a92651e97c87b603668
+
+
+
+
+
+storage_account_name = "databricks1strg"
+storage_account_access_key = "CN4wRoNnDiCkMKPsU84vwa4xXrgmKq66Q/6fFrh/rBWlZJAb4wPvQi5PxQgs2CMk6VyfNWGb0WcD6xRxLyK5UQ=="
+file_location = "wasbs://localfilecontainer@databricks1strg.blob.core.windows.net/txns"
+file_destination="wasbs://localfilecontainer@databricks1strg.blob.core.windows.net/parquettxns"
+file_type = "csv"
+spark.conf.set("fs.azure.account.key."+storage_account_name+".blob.core.windows.net",storage_account_access_key)
+df = spark.read.format(file_type).option("inferSchema", "true").load(file_location)
+df.show()
+df.write.parquet(file_destination)
